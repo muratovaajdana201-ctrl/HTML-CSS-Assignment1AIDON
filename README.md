@@ -69,7 +69,13 @@ assignment1/
 
 ## Screenshots
 
-Screenshots of the completed tasks and webpage are included in this repository.
+### Homepage
+
+![Homepage](screenshots/homepage.png)
+
+### Form and Table
+
+![Form and Table](screenshots/form.png)
 
 ## Work Process
 
