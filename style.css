@@ -1,0 +1,94 @@
+body {
+    background-color: #fceff3;
+    font-family: Arial, sans-serif;
+}
+
+header {
+    position: relative;
+    text-align: center;
+}
+
+.student-label {
+    position: absolute;
+    right: 20px;
+    top: 10px;
+}
+
+#main-heading {
+    color: #8b4f63;
+    font-size: 32px;
+}
+
+.about {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    position: relative;
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #e6c8d2;
+
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+    border: 1px solid #e6c8d2;
+}
+
+.about img {
+     position: relative;
+    width: 180px;
+    height: 220px;
+    object-fit: cover;
+}
+
+.highlight {
+    font-weight: bold;
+}
+
+table {
+    border-collapse: collapse;
+    width: 80%;
+    margin: 20px auto;
+}
+
+th,
+td {
+    border: 1px solid #c98da4;
+    padding: 10px;
+    text-align: center;
+}
+
+th {
+    background-color: #f4dce5;
+}
+
+form {
+    background-color: white;
+    padding: 20px;
+    margin: 20px;
+    width: 300px;
+}
+
+footer {
+    position: static;
+    text-align: center;
+    margin-top: 30px;
+    padding: 15px;
+}
+
+h2 {
+    font-size: 1.5rem;
+}
+
+p {
+    font-size: 1em;
+}
+.info {
+    float: left;
+    margin: 20px;
+}
+
+.clear {
+    clear: both;
+}
