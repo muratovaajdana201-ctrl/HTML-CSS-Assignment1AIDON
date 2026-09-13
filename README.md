@@ -22,31 +22,31 @@ The webpage contains information about me, my hobbies, favorite websites, univer
 
 Created the basic HTML structure with `DOCTYPE`, `html`, `head`, `body`, and `title`.
 
-![Step 0](screenshots/step0.png)
+![Step 0](screenshots/Step0.png)
 
 #### Step 1. Headings and Paragraphs
 
 Added headings from `h1` to `h3` and paragraphs with information about me.
 
-![Step 1](screenshots/step1.png)
+![Step 1](screenshots/Step1.png)
 
 #### Step 2. Ordered and Unordered Lists
 
 Created an ordered list of my hobbies and an unordered list of my favorite websites.
 
-![Step 2](screenshots/step2.png)
+![Step 2](screenshots/Step2.png)
 
 #### Step 3. Image and Links
 
 Added my personal photo and several links to websites.
 
-![Step 3](screenshots/step3.png)
+![Step 3](screenshots/Step3.png)
 
 #### Step 4. Button
 
 Added a "Click Me" button that opens my Instagram page.
 
-![Step 4](screenshots/step4.png)
+![Step 4](screenshots/Step4.png)
 
 ---
 
@@ -56,7 +56,7 @@ Added a "Click Me" button that opens my Instagram page.
 
 Created a table containing subjects, days, and class times.
 
-![Step 5](screenshots/step5.png)
+![Step 5](screenshots/Step5.png)
 
 #### Step 6. Table Layout - Optional Challenge
 
@@ -66,13 +66,13 @@ This was an optional challenge and was not implemented.
 
 Added three emojis to a paragraph about my student life.
 
-![Step 7](screenshots/step7.png)
+![Step 7](screenshots/Step7.png)
 
 #### Step 8. Form
 
 Created a contact form with Name, Email, Favorite Color, and Submit inputs.
 
-![Step 8](screenshots/step8.png)
+![Step 8](screenshots/Step8.png)
 
 ---
 
@@ -82,29 +82,30 @@ Created a contact form with Name, Email, Favorite Color, and Submit inputs.
 
 Connected the external `style.css` file and added basic styling for the webpage.
 
-![Step 9](screenshots/step9.png)
+![Step 9](screenshots/Step9.png)
 
 #### Step 10. Inline CSS
 
 Used inline CSS to change the color of the "My Hobbies" heading.
 
-![Step 10](screenshots/step10.png)
+![Step 10](screenshots/Step10.png)
 
 #### Step 11. Internal CSS
 
 Used internal CSS inside the `<style>` element to change paragraph line height.
 
-![Step 11](screenshots/step11.png)
+![Step 11](screenshots/Step11.png)
 
 #### Step 12. External CSS
 
 Created and connected the external `style.css` file.
 
-![Step 12](screenshots/step12.png)
+![Step 12](screenshots/Step12.png)
 
 #### Step 13. CSS Selectors
 
 Used element, class, and ID selectors in the project.
+![Step 13](screenshots/Step13.png)
 
 ![Step 13 - Part 1](screenshots/Step13\(1\).png)
 
@@ -114,7 +115,7 @@ Used element, class, and ID selectors in the project.
 
 Used the `.highlight` class and `#main-heading` ID selector.
 
-![Step 14](screenshots/step14.png)
+![Step 14](screenshots/Step14.png)
 
 ---
 
@@ -124,23 +125,24 @@ Used the `.highlight` class and `#main-heading` ID selector.
 
 Added a favicon to the webpage.
 
-![Step 15](screenshots/step15.png)
+![Step 15](screenshots/Step15.png)
 
 #### Step 16. HTML Divs
 
 Used `<div>` elements to organize webpage content.
 
-![Step 16](screenshots/step16.png)
+![Step 16](screenshots/Step16.png)
 
 #### Step 17. CSS Box Model
 
 Used margin, padding, and borders to style the webpage elements.
 
-![Step 17](screenshots/step17.png)
+![Step 17](screenshots/Step17.png)
 
 #### Step 18. CSS Positioning
 
 Used `static`, `relative`, and `absolute` positioning.
+![Step 18](screenshots/Step18.png)
 
 ![Step 18 - Part 1](screenshots/Step18\(1\).png)
 
@@ -152,17 +154,18 @@ Used `static`, `relative`, and `absolute` positioning.
 
 Used `px`, `%`, `em`, and `rem` units.
 
-![Step 19](screenshots/step19.png)
+![Step 19](screenshots/Step19.png)
 
 #### Step 20. Float and Clear
 
 Used `float` and `clear` properties.
 
-![Step 20](screenshots/step20.png)
+![Step 20](screenshots/Step20.png)
 
 #### Step 21. Publishing the Website
 
 Prepared and published the webpage using GitHub Pages.
+![Step 21](screenshots/Step21.png)
 
 ![Step 21 - Part 1](screenshots/Step21\(1\).png)
 
