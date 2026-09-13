@@ -13,6 +13,17 @@
 This project is a simple personal webpage created using HTML and CSS.
 
 The webpage contains information about me, my hobbies, favorite websites, university subjects, a contact form, and some basic CSS styling.
+## Final Website
+
+### Homepage
+
+This is the final version of my personal webpage created with HTML and CSS.
+
+![Final Website](screenshots/homepage.png)
+
+### Contact Form and Table
+
+![Contact Form and Table](screenshots/form.png)
 
 ## Tasks Completed
 
