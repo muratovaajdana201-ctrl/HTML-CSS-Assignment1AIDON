@@ -35,7 +35,7 @@ This is the final version of my personal webpage created with HTML and CSS.
 
 Created the basic HTML structure with `DOCTYPE`, `html`, `head`, `body`, and `title`.
 
-![Step 0](screenshots/step0.png)
+![Step 0](screenshots/Step0.png)
 
 #### Step 1. Headings and Paragraphs
 
